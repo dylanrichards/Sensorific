@@ -1,0 +1,4 @@
+<resources>
+
+    <item type="layout" name="activity_sens_list">@layout/activity_sens_twopane</item>
+</resources>
